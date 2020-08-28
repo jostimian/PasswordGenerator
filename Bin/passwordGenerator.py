@@ -15,13 +15,12 @@ iscomplex = False
 #Generate Password 
 def compx_savetofile():
 	global iscomplex
-	global saveToDevice
 	if iscomplex == False:
 		iscomplex = True
 	if iscomplex == True:
 		iscomplex = False
 def genpas():
-	if iscomplex == True:
+	if iscomplex == True: #
 		passlen = int(length.get())*2
 		phase1 = "".join([random.choice(combine) for _ in range (passlen)])
 		phase1_len = int(len(phase1)/2)
