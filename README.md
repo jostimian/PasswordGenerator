@@ -2,7 +2,7 @@
 **Python Password Generator** generates **secure** password for you online acount in a single click
 
 # What's New?
-As of 28/08/2020 we've added special symbols and **Make It Complex** mode  to make the generated passowrds more secure and less vulnerable to hackers
+As of 28/08/2020(8:24pm) We've fixed some bugs and edit some **typo** in the readme file 
 
 # How to Use?
 Run the .exe file inside of the exe folder
@@ -11,4 +11,4 @@ You can also use the complex mode which will make a more **secure** password
 
 # Issues 
 No issues so far
-If you found any issues please create a new issue in the issue tab i **i will make sure to fix all of the problems a soon as posible**
+If you found any issues please create a new issue in the issue tab **i will make sure to fix all of the problems a soon as posible**
